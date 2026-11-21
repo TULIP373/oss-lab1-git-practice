@@ -1,1 +1,1 @@
-﻿APP_VERSION = "1.1.0"`nprint(f"OSS Lab App v{APP_VERSION}")
+﻿APP_VERSION = "1.2.0-beta"`nprint(f"OSS Lab App v{APP_VERSION}")
