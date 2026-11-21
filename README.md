@@ -11,3 +11,5 @@ python app.py
 ## 模块说明
 - app.py：主程序入口
 - greet.py：问候语辅助模块
+
+- calc.py: basic arithmetic helper
