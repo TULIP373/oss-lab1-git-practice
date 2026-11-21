@@ -13,3 +13,6 @@ python app.py
 - greet.py：问候语辅助模块
 
 - calc.py: basic arithmetic helper
+
+## Formatter Module
+- `formatter.py`: provides `format_banner(title)` helper.
